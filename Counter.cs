@@ -16,7 +16,7 @@ namespace Payroll
             totalCounters++;
         }
 
-        public void Increment()
+        public void Increment() 
         {
             count++;
         }
