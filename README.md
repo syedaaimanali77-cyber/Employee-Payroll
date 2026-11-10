@@ -25,7 +25,7 @@ method of total count is static which means its belong to the class that's why o
 ---------------------------
 
 4. Employee is our base/parent class in which we represents general Employee while in actual
-   we have specific types of employees .Like full time employee, part time employee and Intern.
+   we have specific types of employees .Like full time employee, part time employee, Contractual employee and Intern.
    So, if we try to generte abstract class object compiler will give us error bcz abstract classes
    can't instantiate we have to create object of its child classes as we do in Main ()
    function by creating object of all types of Employees.
